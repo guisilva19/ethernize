@@ -18,11 +18,11 @@ export default function Home() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5500000000000", "_blank"); // Replace with actual number
+    window.open("https://wa.me/5577991320762", "_blank"); // Replace with actual number
   };
 
   const handleInstagramClick = () => {
-    window.open("https://instagram.com/yourhandle", "_blank"); // Replace with actual handle
+    window.open("https://www.instagram.com/ethernize.cerimonial", "_blank"); // Replace with actual handle
   };
 
   const closeMenu = () => {
